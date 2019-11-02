@@ -26,7 +26,7 @@ class Footer extends Component {
           <MDBCol md="12">
             <h5 className="title">
               <a href="https://cryptocurrensea.io">
-                ur name
+                React Template
               </a>
             </h5>
               {Quoteswitcher()}
