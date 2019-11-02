@@ -6,6 +6,7 @@ class Homepage extends Component {
     render(){
         return(
             <header className="App-header">
+              <script data-ad-client="ca-pub-6202902142885850" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <iframe
         title="Homepage Video" 
         width="560" 
