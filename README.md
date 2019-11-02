@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I added in a few pages and a navbar and footer component all using bootstrap, they are linked using react-router.
+Feel free to try it out and find the easter eggs!
 
 ## Available Scripts
 
