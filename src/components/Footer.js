@@ -4,16 +4,16 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter } from 'mdbreact';
 
 
 
-const Quoteswitcher = () => {
-  const rand = Math.floor(Math.random() * 4) + 1;
-  if (rand === 1) {
-    return <p> “If you insist on measuring yourself, place the tape around your heart rather than your head." – Carol Trabelle”</p>;
-  }
-  if (rand === 2) {
-    return <p> You may not have saved a lot of money in your life, but if you have saved a lot of heartaches for other folks, you are a pretty rich man."  – Seth Parker</p>;
-  }
-  return <p> I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do." – Helen Keller </p>;
-};
+// const Quoteswitcher = () => {
+//   const rand = Math.floor(Math.random() * 4) + 1;
+//   if (rand === 1) {
+//     return <p> “If you insist on measuring yourself, place the tape around your heart rather than your head." – Carol Trabelle”</p>;
+//   }
+//   if (rand === 2) {
+//     return <p> You may not have saved a lot of money in your life, but if you have saved a lot of heartaches for other folks, you are a pretty rich man."  – Seth Parker</p>;
+//   }
+//   return <p> I am only one, but still I am one. I cannot do everything, but still I can do something; and because I cannot do everything, I will not refuse to do something that I can do." – Helen Keller </p>;
+// };
 
 
 
@@ -26,12 +26,11 @@ class Footer extends Component {
           <MDBCol md="12">
             <h5 className="title">
               <a href="https://cryptocurrensea.io">
-                React Template
+               A.S.S.
               </a>
             </h5>
               <p>
-                This is your react templates footer, It has a quote switcher function that can be inserted
-                using   {`{Quoteswitcher()} `}
+                Smoke for your health and mind, not for the flex.
               </p>
           </MDBCol>
         </MDBRow>

@@ -21,7 +21,7 @@ export default class NavBar extends React.Component {
     return (
       <div>
         <Navbar color="faded" light>
-          <NavbarBrand href="/" className="mr-auto">React Template</NavbarBrand>
+          <NavbarBrand href="/" className="mr-auto">A.S.S.</NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>

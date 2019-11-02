@@ -2,8 +2,8 @@ import React from 'react';
 
 const Projects = () => (
   <React.Fragment>
-  <p >This is your projects page</p>
-  <h1 >Edits this in Projects.js </h1>
+  <h1 >This is our projects page </h1>
+  <p> Currently nothing yet...</p>
   </React.Fragment>
 );
 export default Projects;
