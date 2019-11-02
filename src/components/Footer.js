@@ -29,13 +29,16 @@ class Footer extends Component {
                 React Template
               </a>
             </h5>
-              {Quoteswitcher()}
+              <p>
+                This is your react templates footer, It has a quote switcher function that can be inserted
+                using   {`{Quoteswitcher()} `}
+              </p>
           </MDBCol>
         </MDBRow>
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="http://cryptocurrensea.io"> Cryptocurrensea </a>
+          &copy; {new Date().getFullYear()} Copyright: <a href="http://jongan.com"> Jon Gan </a>
         </MDBContainer>
       </div>
     </MDBFooter>
