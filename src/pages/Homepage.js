@@ -10,6 +10,10 @@ class Homepage extends Component {
         <AdSense.Google
           client='ca-pub-6202902142885850'
           slot='3693217820'
+          style={{ display: 'block' }}
+          format='auto'
+          responsive='true'
+          layoutKey='-gw-1+2a-9x+5c'
         />
         <iframe
           title="Homepage Video"
