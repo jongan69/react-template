@@ -26,10 +26,6 @@ class Homepage extends Component {
         <p>
           <code>Welcome to the Antisocial Smoke Society</code>
         </p>
-        <p>
-
-        </p>
-        <script data-ad-client="ca-pub-6202902142885850" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </header>
     )
   }
