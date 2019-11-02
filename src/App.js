@@ -20,6 +20,7 @@ function App() {
           <Route path="/Projects" component={pages.Projects} exact />
           <Route path="/Contact" component={pages.Contact} exact />
           <Route component={pages.NotFoundPage} />
+          <script data-ad-client="ca-pub-6202902142885850" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Switch>
     </div>
     <Footer/>

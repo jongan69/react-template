@@ -12,6 +12,11 @@ class Homepage extends Component {
         <p>
           <code>Welcome to your landing page!</code>
         </p>
+        <p>
+        <code>To see the Github click 
+            <a href="https://github.com/jongan69/react-template"> Here</a>
+          </code>
+        </p>
       </header> 
         )
     }
