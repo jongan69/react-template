@@ -37,7 +37,7 @@ class Footer extends Component {
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="http://jongan.com"> Jon Gan </a>
+          &copy; {new Date().getFullYear()} Copyright: <a href="http://cryptocurrensea.io"> cryptocurrensea </a>
         </MDBContainer>
       </div>
     </MDBFooter>
