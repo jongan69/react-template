@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from 'mdbreact';
 
 
@@ -31,7 +32,7 @@ class Footer extends Component {
             </h5>
               <p>
                 This is your react templates footer, It has a quote switcher function that can be inserted
-                using   {`{Quoteswitcher()} `}
+                using   {Quoteswitcher()}
               </p>
           </MDBCol>
         </MDBRow>
